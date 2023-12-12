@@ -13,12 +13,17 @@ body{
 #header-todo{
     background-color: #1b2c82;
     color: white;
+    padding: 1.2rem;
+    
 }
 
 #header-todo h1{
     font-weight: lighter;
-    padding: 1.2rem;
     font-size: 1.5rem;
+}
+
+#header-todo p{
+    font-variant: small-caps;
 }
 
 #container-forms{
